@@ -1,3 +1,7 @@
+
+# Author:     Francis K. Francis
+
+
 import pygame
 import os
 import random
